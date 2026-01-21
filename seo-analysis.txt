@@ -1,0 +1,5 @@
+SEO Analysis Summary:
+
+A basic SEO audit will be conducted using the Seobility SEO Checker on the live GitHub Pages website for this project. The webpage includes a descriptive title, meta description, keywords, and author meta tags, which improve search engine visibility and help search tools understand the page topic.
+
+After publishing the site, the SEO scan is expected to confirm that the title and meta description are detected correctly. Any suggested improvements (such as adding more content, headings, or internal links) are normal for a simple one-page website. Overall, the site structure and meta tags demonstrate a beginner-level SEO implementation aligned with the assignment objectives.

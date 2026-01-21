@@ -1,0 +1,81 @@
+/* ===== Global Styles ===== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* ===== Header / Hero Section ===== */
+.site-header {
+  text-align: center;
+  padding: 40px 16px 10px;
+}
+
+.site-header h1 {
+  margin: 0 0 10px;
+  font-size: 32px;
+}
+
+.tagline {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+/* ===== Main Content ===== */
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 16px 30px;
+}
+
+.intro {
+  text-align: center;
+}
+
+.intro h2 {
+  margin-top: 10px;
+  font-size: 22px;
+}
+
+.intro p {
+  max-width: 760px;
+  margin: 10px auto 0;
+  font-size: 16px;
+}
+
+/* ===== Footer ===== */
+.site-footer {
+  text-align: center;
+  padding: 20px 16px 30px;
+}
+
+.copyright {
+  margin: 0 0 10px;
+  font-size: 14px;
+}
+
+/* ===== Social Media Icons ===== */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.social-icons img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.social-icons img:hover {
+  transform: scale(1.15);
+}
